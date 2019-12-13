@@ -1,18 +1,9 @@
 ---
-layout: default
+title: "0FA CTF"
+layout: home
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.5"
+    overlay_image: /assets/images/banner.jpg
+excerpt: 0FA is a swiss CTF Team created in 2019
 ---
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>

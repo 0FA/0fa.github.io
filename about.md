@@ -1,15 +1,16 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title:  About
+layout: splash
+header:
+    overlay_color: "#000"
+    overlay_filter: "0.8"
+    overlay_image: /assets/images/banner.jpg
 ---
 
-Some information about you!
+## FAQ
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Q1
+### Q2
+### Q3
+### Q4
+### Q5
