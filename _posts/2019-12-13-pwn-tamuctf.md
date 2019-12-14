@@ -5,8 +5,8 @@ categories: writeups
 header:
     overlay_color: "#000"
     overlay_filter: "0.8"
-    overlay_image: /assets/images/0fa.png
-    teaser: /assets/images/0fa.png
+    overlay_image: /assets/images/pwn_background.png
+    teaser: /assets/images/pwn_background.png
 excerpt: "Writeup for the pwn (1-5) challenges of the TamuCTF 2019"
 ---
 
